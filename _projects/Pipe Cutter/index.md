@@ -8,7 +8,7 @@ skills:
 - 3D printing
 - Manufacturing
 - Stress Analysis (FEA)
-main-image: /imageedit_2_5230177160.png
+main-image: /imageedit_4_2682675995.png
 ---
 
 ---
