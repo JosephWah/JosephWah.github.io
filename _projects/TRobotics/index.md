@@ -56,6 +56,6 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 <br> <br>
 ### 2015 VEX Nothing But Net Robot
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890181_37d7c3d022_w.jpg" height="400" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg)" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890181_37d7c3d022_w.jpg" height="100" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg)" height="100" %} 
 
