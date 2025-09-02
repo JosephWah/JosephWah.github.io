@@ -60,3 +60,13 @@ main-image: /imageedit_10_7200700890.png
 
 ## Version two was then made with several key improvements:
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759895018/in/dateposted-public/" title="V2 back skewed view"><img src="https://live.staticflickr.com/65535/54759895018_2a6d126ccf_b.jpg" width="512" height="439" alt="V2 back skewed view"/></a>
+<br>
+<span style="font-size: 16px">• Tolerances were adjusted to be slightly more loose.</span>
+
+<span style="font-size: 16px">• The handle was completely redesigned to be more ergonomic.</span>
+
+<span style="font-size: 16px">• The blade returning mechanism was designed to be simple and nested within the pipe holder to take up minimal space.</span>
+
+<span style="font-size: 16px">• A blade catch was designed to keep the blade from returning to its' original position until manually released.</span>  
+
+<span style="font-size: 16px">• Several features of the entire assembly were bulked up to improve manufacturability and strength.</span>  
