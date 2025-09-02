@@ -59,8 +59,9 @@ main-image: /imageedit_10_7200700890.png
 <br><br><br>
 
 ## Version two was then made with several key improvements:
+<br><br>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759895018/in/dateposted-public/" title="V2 back skewed view"><img src="https://live.staticflickr.com/65535/54759895018_2a6d126ccf_b.jpg" width="512" height="439" alt="V2 back skewed view"/></a>
-<br>
+<br><br>
 <span style="font-size: 16px">• Tolerances were adjusted to be slightly more loose.</span>
 
 <span style="font-size: 16px">• The handle was completely redesigned to be more ergonomic.</span>
