@@ -8,7 +8,7 @@ skills:
 - C++
 - Preventative Maintenence
 - Troubleshooting
-- Gear Design
+- Gear Ratio Design
 - Motor Calculations
 main-image: /VRC-Toss-Up-Field (1)(2).png
 ---
@@ -59,6 +59,6 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54554890181_37d7c3d022_w.jpg" height="300" %} 
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg)" height="300" %} 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890181/in/dateposted-public/" title="Screenshot 2025-05-29 163455"><img src="https://live.staticflickr.com/65535/54554890181_37d7c3d022_b.jpg" width="524" height="521" alt="Screenshot 2025-05-29 163455"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="780" height="215" alt="In the zone field"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890181/in/dateposted-public/" title="Screenshot 2025-05-29 163455"><img src="https://live.staticflickr.com/65535/54554890181_37d7c3d022_b.jpg" width="224" height="221" alt="Screenshot 2025-05-29 163455"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="480" height="215" alt="In the zone field"/></a>
 
