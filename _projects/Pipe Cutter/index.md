@@ -47,9 +47,9 @@ main-image: /imageedit_10_7200700890.png
 ### Several problems were found with this prototype:
 
 <span style="font-size: 16px">• Tolerances were too tight for printing, resulting in the blade and bottom handle rubbing against the pipe holder.</span>
-<br>
-<span style="font-size: 16px">• The handle design is unergonomic and uncomfortable to hold.</span>  
 
+<span style="font-size: 16px">• The handle design is unergonomic and uncomfortable to hold.</span>  
+<br>
 <span style="font-size: 16px">• Certain small extrusions printed poorly with rough edges and need to be enlarged or changed.</span>
 <br>
 <span style="font-size: 16px">• The spring mechanism for returning the blade is too complex and takes up too much space.</span>  
