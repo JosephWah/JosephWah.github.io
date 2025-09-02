@@ -49,9 +49,9 @@ main-image: /imageedit_10_7200700890.png
 <span style="font-size: 16px">• Tolerances were too tight for printing, resulting in the blade and bottom handle rubbing against the pipe holder.</span>
 
 <span style="font-size: 16px">• The handle design is unergonomic and uncomfortable to hold.</span>  
-<br>
+
 <span style="font-size: 16px">• Certain small extrusions printed poorly with rough edges and need to be enlarged or changed.</span>
-<br>
+
 <span style="font-size: 16px">• The spring mechanism for returning the blade is too complex and takes up too much space.</span>  
 <br>
 <span style="font-size: 16px">• A mechanism for keeping the blade from coming back up in between presses of the handle needs to be made.</span>  
