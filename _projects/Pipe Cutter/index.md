@@ -42,4 +42,7 @@ main-image: /imageedit_10_7200700890.png
 
 <br> <br> <br> <br>
 
-## Fabrication Coming Soon...
+## Version one was then printed out:
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54758819617/in/dateposted-public/" title="PXL_20250820_194914739~2"><img src="https://live.staticflickr.com/65535/54758819617_f089051788_b.jpg" width="1024" height="519" alt="PXL_20250820_194914739~2"/></a>
+### Several problems were found with this prototype:
+<span style="font-size: 16px">• </span>  
