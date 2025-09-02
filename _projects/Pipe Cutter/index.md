@@ -72,11 +72,10 @@ main-image: /imageedit_10_7200700890.png
 
 <span style="font-size: 16px">• Several features of the entire assembly were bulked up to improve manufacturability and strength.</span>  
 
-<br><br><br>
+<br><br>
 
 ### The blade catching and updated pawl mechanisms are shown in a section view below:
-<br>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759673191/in/dateposted-public/" title="Close up of V2 ratcheting mechs"><img src="https://live.staticflickr.com/65535/54759673191_218451cbc4_b.jpg" width="301" height="322" alt="Close up of V2 ratcheting mechs"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759673191/in/dateposted-public/" title="Close up of V2 ratcheting mechs"><img src="https://live.staticflickr.com/65535/54759673191_218451cbc4_b.jpg" width="376" height="397" alt="Close up of V2 ratcheting mechs"/></a>
 
 <br><br>
 
