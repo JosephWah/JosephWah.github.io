@@ -74,17 +74,16 @@ main-image: /imageedit_10_7200700890.png
 
 <br><br><br>
 
-### The blade catching mechanism and updated pawl mechanism are shown in a section view below:
+### The blade catching and updated pawl mechanisms are shown in a section view below:
 <br>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759673191/in/dateposted-public/" title="Close up of V2 ratcheting mechs"><img src="https://live.staticflickr.com/65535/54759673191_218451cbc4_b.jpg" width="902" height="967" alt="Close up of V2 ratcheting mechs"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759673191/in/dateposted-public/" title="Close up of V2 ratcheting mechs"><img src="https://live.staticflickr.com/65535/54759673191_218451cbc4_b.jpg" width="301" height="322" alt="Close up of V2 ratcheting mechs"/></a>
 
 <br><br>
 
-### Additionally the cutout for the spring to return the blade to its' upright position is shown:
+### Additionally, the cutout for the spring to return the blade to its' upright position is shown:
 
 
 <br><br>
 
 ### Finally, the assembly drawing is shown with section views:
-<br>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54758816327/in/dateposted-public/" title="Screenshot 2025-09-01 180107"><img src="https://live.staticflickr.com/65535/54758816327_d8cc727e0d_b.jpg" width="1024" height="661" alt="Screenshot 2025-09-01 180107"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760345573" title="Screenshot 2025-09-01 180107"><img src="https://live.staticflickr.com/65535/54760345573_c2c267dded_b.jpg" width="1024" height="564" alt="Screenshot 2025-09-01 180107"/></a>
