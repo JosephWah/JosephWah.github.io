@@ -45,4 +45,13 @@ main-image: /imageedit_10_7200700890.png
 ## Version one was then printed out:
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54758819617/in/dateposted-public/" title="PXL_20250820_194914739~2"><img src="https://live.staticflickr.com/65535/54758819617_f089051788_b.jpg" width="1024" height="519" alt="PXL_20250820_194914739~2"/></a>
 ### Several problems were found with this prototype:
-<span style="font-size: 16px">• </span>  
+<span style="font-size: 16px">• Tolerances were too tight for printing, resulting in the blade and bottom handle rubbing against the pipe holder.</span>
+<span style="font-size: 16px">• The handle design is uncomfortable to hold.</span>  
+<span style="font-size: 16px">• Certain small extrusions printed poorly with rough edges and need to be enlarged or changed.</span>
+<span style="font-size: 16px">• The spring mechanism for returning the blade is too complex and takes up too much space.</span>  
+<span style="font-size: 16px">• A mechanism for keeping the blade from coming back up in between presses of the handle needs to be made.</span>  
+
+<br><br><br><br>
+
+## Version two was then made with several key improvements:
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759895018/in/dateposted-public/" title="V2 back skewed view"><img src="https://live.staticflickr.com/65535/54759895018_2a6d126ccf_b.jpg" width="1024" height="878" alt="V2 back skewed view"/></a>
