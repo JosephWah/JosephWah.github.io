@@ -28,34 +28,34 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 
 ### 2019 VEX Tower Takeover Robot
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890226_8afb96933c_w.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890226_8afb96933c_w.jpg" height="300" %} 
 
 <br> <br>
 ### 2018 VEX Turning Point
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890201_3ed37241bc_w.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890201_3ed37241bc_w.jpg" height="300" %} 
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V3
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555228010_b9d34e3e39_w.jpg" height="400" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554011242_187849ef05_w.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54555228010_b9d34e3e39_w.jpg" height="300" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54554011242_187849ef05_w.jpg" height="300" %} 
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V2
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554011327_738e50d6e8_w.jpg" height="400" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555127443_b5343c5ae4_w.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54554011327_738e50d6e8_w.jpg" height="300" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54555127443_b5343c5ae4_w.jpg" height="300" %} 
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V1
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555227950_fcd1acc3f0_w.jpg" height="400" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555228000_c9ba358c44_w.jpg" height="400" %} 
-
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54555227950_fcd1acc3f0_w.jpg" height="300" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54555228000_c9ba358c44_w.jpg" height="300" %} 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="980" height="415" alt="In the zone field"/></a>
 <br> <br>
 ### 2016 VEX Starstruck Robot
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555227905_37f4ac84c3_w.jpg" height="400" %}
-
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54555227905_37f4ac84c3_w.jpg" height="300" %}
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54760471530_a4950af0fd_b.jpg" height="300" %}
 
 <br> <br>
 ### 2015 VEX Nothing But Net Robot
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890181_37d7c3d022_w.jpg" height="100" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg)" height="100" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890181_37d7c3d022_w.jpg" height="300" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg)" height="300" %} 
 
