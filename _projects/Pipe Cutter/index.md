@@ -16,11 +16,15 @@ main-image: /imageedit_10_7200700890.png
 ### The required axial force to yield a 3.5" OD pvc pipe is first found to be 80 lbf:
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54552471386_fbaa2162d1_b.jpg" height="550" %}
 <br> <br> <br> <br>
+### Version One of the cutter is made in SolidWorks
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759774236/in/dateposted-public/" title="stock picture"><img src="https://live.staticflickr.com/65535/54759774236_4f091486d7_b.jpg" width="1024" height="377" alt="stock picture"/></a>
+<br><br><br>
 ### That force is then applied to various components of the pipe cutter to ensure it won't fail:
 <br>
 
 <span style="font-size: 16px">80 lbf is applied to the cutting blade where it impacts the pvc pipe:</span>  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54553950987/in/dateposted-public/" title="Screenshot 2025-05-29 191524"><img src="https://live.staticflickr.com/65535/54553950987_bfe74cc8cf_w.jpg" width="500" height="396" hspace="100" alt="Screenshot 2025-05-29 191524"/></a>
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555016439/in/dateposted-public/" title="blade force iso"><img src="https://live.staticflickr.com/65535/54555016439_a930d0acaa_w.jpg" width="500" height="280" alt="blade force iso"/></a>
 
 <br> <br> <br> <br>
