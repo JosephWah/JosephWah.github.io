@@ -36,7 +36,7 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V3
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554607171/in/dateposted-public/" title="Screenshot 2025-05-29 164851"><img src="https://live.staticflickr.com/65535/54554607171_591716beed_c.jpg" width="400" height="800" alt="Screenshot 2025-05-29 164851"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554607171/in/dateposted-public/" title="Screenshot 2025-05-29 164851"><img src="https://live.staticflickr.com/65535/54554607171_591716beed_c.jpg" width="600" height="800" alt="Screenshot 2025-05-29 164851"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554792829/in/dateposted-public/" title="Screenshot 2025-05-29 163324"><img src="https://live.staticflickr.com/65535/54554792829_e6d913a19b_c.jpg" width="400" height="800" alt="Screenshot 2025-05-29 163324"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="800" height="300" alt="In the zone field"/></a>
 
