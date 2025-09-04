@@ -25,7 +25,7 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 <span style="font-size: 18px">•	Mentored younger team participants in design principles, gear ratios, motor control, and autonomous logic.</span> 
 <br> <br> <br>
 ## Several designs throughout the years
-
+<br>
 
 ### 2019 VEX Tower Takeover Robot
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890226/in/dateposted-public/" title="Screenshot 2025-05-29 163404"><img src="https://live.staticflickr.com/65535/54554890226_8afb96933c_c.jpg" width="330" height="400" alt="Screenshot 2025-05-29 163404"/></a>
