@@ -33,7 +33,7 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 <br> <br>
 ### 2018 VEX Turning Point
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890201/in/dateposted-public/" title="Screenshot 2025-05-29 163439"><img src="https://live.staticflickr.com/65535/54554890201_3ed37241bc_c.jpg" width="800" height="800" alt="Screenshot 2025-05-29 163439"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890201/in/dateposted-public/" title="Screenshot 2025-05-29 163439"><img src="https://live.staticflickr.com/65535/54554890201_3ed37241bc_c.jpg" width="400" height="400" alt="Screenshot 2025-05-29 163439"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760365684/in/dateposted-public/" title="VRC-Turning-Point-Field (1)"><img src="https://live.staticflickr.com/65535/54760365684_3b5e96aa38_c.jpg" width="800" height="565" alt="VRC-Turning-Point-Field (1)"/></a>
 
 <br> <br>
