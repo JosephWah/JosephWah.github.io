@@ -56,9 +56,16 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 <br> <br>
 ### 2015 VEX Nothing But Net Robot
+<!--
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54554890181_37d7c3d022_w.jpg" height="300" %} 
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg)" height="300" %} 
+-->
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890181/in/dateposted-public/" title="Screenshot 2025-05-29 163455"><img src="https://live.staticflickr.com/65535/54554890181_37d7c3d022_b.jpg" width="550" height="547" alt="Screenshot 2025-05-29 163455"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760360708/in/dateposted-public/" title="VRC-Nothing-But-Net-Field (1)"><img src="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg" width="550" height="124" alt="VRC-Nothing-But-Net-Field (1)"/></a>
+<!--
+Max Width = 1100 px
+1100/2 = 550
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890181/in/dateposted-public/" title="Screenshot 2025-05-29 163455"><img src="https://live.staticflickr.com/65535/54554890181_37d7c3d022_b.jpg" width="500" height="221" alt="Screenshot 2025-05-29 163455"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="600" height="215" alt="In the zone field"/></a>
-
+-->
