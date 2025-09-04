@@ -15,7 +15,7 @@ main-image: /VRC-Toss-Up-Field (1)(2).png
 
 ---
 ## Overview
-See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a> or <a href="https://www.youtube.com/@team_621a6">**YouTube**</a> robotics accounts.
+See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a> or <a href="https://www.youtube.com/@team_621a6">**YouTube**</a> robotics accounts, or the <a href="https://www.vexrobotics.com/?srsltid=AfmBOopIWrBba-wPDfsd0GuhAG_8XW3DWmy4muyzqvlC6xjeDGYZioSE">**official VEX website.**</a>
 
 <span style="font-size: 18px">•	Recognized as Division Finalist at the 2018 VEX World Championship.</span>  
 <span style="font-size: 18px">•	Designed, built, and programmed competitive robots from the ground up to meet event-specific design challenges.</span>  
@@ -28,8 +28,8 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 
 ### 2019 VEX Tower Takeover Robot
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890226/in/dateposted-public/" title="Screenshot 2025-05-29 163404"><img src="https://live.staticflickr.com/65535/54554890226_8afb96933c_c.jpg" width="350" height="420" alt="Screenshot 2025-05-29 163404"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760471535/in/dateposted-public/" title="tower takeover field"><img src="https://live.staticflickr.com/65535/54760471535_5363dcda15_n.jpg" width="550" height="280" alt="tower takeover field"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890226/in/dateposted-public/" title="Screenshot 2025-05-29 163404"><img src="https://live.staticflickr.com/65535/54554890226_8afb96933c_c.jpg" width="330" height="400" alt="Screenshot 2025-05-29 163404"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760471535/in/dateposted-public/" title="tower takeover field"><img src="https://live.staticflickr.com/65535/54760471535_5363dcda15_n.jpg" width="500" height="230" alt="tower takeover field"/></a>
 
 <br> <br>
 ### 2018 VEX Turning Point
