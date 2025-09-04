@@ -43,15 +43,15 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 ### 2017 VEX In the Zone Robot V2
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54554011327_738e50d6e8_w.jpg" height="300" %} 
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54555127443_b5343c5ae4_w.jpg" height="300" %} 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555228000/in/dateposted-public/" title="Screenshot 2025-05-29 164637"><img src="https://live.staticflickr.com/65535/54555228000_c9ba358c44_c.jpg" width="789" height="800" alt="Screenshot 2025-05-29 164637"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555227950/in/dateposted-public/" title="Screenshot 2025-05-29 164552"><img src="https://live.staticflickr.com/65535/54555227950_fcd1acc3f0_c.jpg" width="799" height="800" alt="Screenshot 2025-05-29 164552"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_c.jpg" width="800" height="339" alt="In the zone field"/></a>
+
+
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V1
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555227950_fcd1acc3f0_w.jpg" height="300" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555228000_c9ba358c44_w.jpg" height="300" %} 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="980" height="415" alt="In the zone field"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555228000/in/dateposted-public/" title="Screenshot 2025-05-29 164637"><img src="https://live.staticflickr.com/65535/54555228000_c9ba358c44_c.jpg" width="489" height="500" alt="Screenshot 2025-05-29 164637"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555227950/in/dateposted-public/" title="Screenshot 2025-05-29 164552"><img src="https://live.staticflickr.com/65535/54555227950_fcd1acc3f0_c.jpg" width="499" height="500" alt="Screenshot 2025-05-29 164552"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="680" height="150" alt="In the zone field"/></a>
+
 <br> <br>
 ### 2016 VEX Starstruck Robot
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555227905/in/dateposted-public/" title="Screenshot 2025-05-29 164147"><img src="https://live.staticflickr.com/65535/54555227905_37f4ac84c3_c.jpg" width="505" height="510" alt="Screenshot 2025-05-29 164147"/></a>
