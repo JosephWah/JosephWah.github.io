@@ -28,7 +28,7 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 
 ### 2019 VEX Tower Takeover Robot
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890226/in/dateposted-public/" title="Screenshot 2025-05-29 163404"><img src="https://live.staticflickr.com/65535/54554890226_8afb96933c_c.jpg" width="735" height="800" alt="Screenshot 2025-05-29 163404"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890226/in/dateposted-public/" title="Screenshot 2025-05-29 163404"><img src="https://live.staticflickr.com/65535/54554890226_8afb96933c_c.jpg" width="435" height="500" alt="Screenshot 2025-05-29 163404"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760471535/in/dateposted-public/" title="tower takeover field"><img src="https://live.staticflickr.com/65535/54760471535_5363dcda15_n.jpg" width="320" height="128" alt="tower takeover field"/></a>
 
 <br> <br>
