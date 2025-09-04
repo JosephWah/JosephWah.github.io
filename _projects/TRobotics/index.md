@@ -23,8 +23,8 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 <br>
 <span style="font-size: 18px">•	Collaborated with team members to improve overall efficiency and modularity.</span>  
 <span style="font-size: 18px">•	Mentored younger team participants in design principles, gear ratios, motor control, and autonomous logic.</span> 
-<br> <br>
-## Several of my designs throughout the years
+<br> <br> <br>
+## Several designs throughout the years
 
 
 ### 2019 VEX Tower Takeover Robot
