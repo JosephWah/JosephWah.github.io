@@ -28,11 +28,13 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 
 ### 2019 VEX Tower Takeover Robot
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890226_8afb96933c_w.jpg" height="300" %} 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890226/in/dateposted-public/" title="Screenshot 2025-05-29 163404"><img src="https://live.staticflickr.com/65535/54554890226_8afb96933c_c.jpg" width="735" height="800" alt="Screenshot 2025-05-29 163404"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760471535/in/dateposted-public/" title="tower takeover field"><img src="https://live.staticflickr.com/65535/54760471535_5363dcda15_n.jpg" width="320" height="128" alt="tower takeover field"/></a>
 
 <br> <br>
 ### 2018 VEX Turning Point
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554890201_3ed37241bc_w.jpg" height="300" %} 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890201/in/dateposted-public/" title="Screenshot 2025-05-29 163439"><img src="https://live.staticflickr.com/65535/54554890201_3ed37241bc_c.jpg" width="800" height="800" alt="Screenshot 2025-05-29 163439"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760365684/in/dateposted-public/" title="VRC-Turning-Point-Field (1)"><img src="https://live.staticflickr.com/65535/54760365684_3b5e96aa38_c.jpg" width="800" height="565" alt="VRC-Turning-Point-Field (1)"/></a>
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V3
