@@ -53,6 +53,8 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 ### 2016 VEX Starstruck Robot
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54555227905_37f4ac84c3_w.jpg" height="300" %}
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54760471530_a4950af0fd_b.jpg" height="300" %}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555227905/in/dateposted-public/" title="Screenshot 2025-05-29 164147"><img src="https://live.staticflickr.com/65535/54555227905_37f4ac84c3_c.jpg" width="705" height="767" alt="Screenshot 2025-05-29 164147"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760471530/in/dateposted-public/" title="VRC-Starstruck-Field (1)"><img src="https://live.staticflickr.com/65535/54760471530_a4950af0fd_c.jpg" width="800" height="450" alt="VRC-Starstruck-Field (1)"/></a>
 
 <br> <br>
 ### 2015 VEX Nothing But Net Robot
