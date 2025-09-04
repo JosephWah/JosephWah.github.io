@@ -41,10 +41,9 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V2
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54554011327_738e50d6e8_w.jpg" height="300" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54555127443_b5343c5ae4_w.jpg" height="300" %} 
-
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555127443/in/dateposted-public/" title="Screenshot 2025-05-29 164725"><img src="https://live.staticflickr.com/65535/54555127443_b5343c5ae4_c.jpg" width="588" height="730" alt="Screenshot 2025-05-29 164725"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554011327/in/dateposted-public/" title="Screenshot 2025-05-29 164653"><img src="https://live.staticflickr.com/65535/54554011327_738e50d6e8_c.jpg" width="541" height="800" alt="Screenshot 2025-05-29 164653"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760139561/in/dateposted-public/" title="In the zone field"><img src="https://live.staticflickr.com/65535/54760139561_da9b0d2404_b.jpg" width="780" height="300" alt="In the zone field"/></a>
 
 <br> <br>
 ### 2017 VEX In the Zone Robot V1
@@ -59,6 +58,5 @@ See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a
 
 <br> <br>
 ### 2015 VEX Nothing But Net Robot
-
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54554890181/in/dateposted-public/" title="Screenshot 2025-05-29 163455"><img src="https://live.staticflickr.com/65535/54554890181_37d7c3d022_b.jpg" width="450" height="447" alt="Screenshot 2025-05-29 163455"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54760360708/in/dateposted-public/" title="VRC-Nothing-But-Net-Field (1)"><img src="https://live.staticflickr.com/65535/54760360708_744e03b9b6_b.jpg" width="650" height="400" alt="VRC-Nothing-But-Net-Field (1)"/></a>
