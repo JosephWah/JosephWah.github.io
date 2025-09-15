@@ -80,7 +80,7 @@ main-image: /imageedit_10_7200700890.png
 <br><br>
 
 ### Additionally, the cutout for the spring to return the blade to its' upright position is shown:
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54759899769/in/dateposted-public/" title="V2 cutaway of blade return spring mechanism"><img src="https://live.staticflickr.com/65535/54759899769_72543a7170_b.jpg" width="1024" height="425" alt="V2 cutaway of blade return spring mechanism"/></a>
 
 <br><br>
 
