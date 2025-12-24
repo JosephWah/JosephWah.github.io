@@ -46,8 +46,9 @@ certifications:
   - category: Certiified SolidWorks Professional (CSWP)
     tools:
     - https://www.credly.com/badges/94cab778-cc4d-45c4-bdda-d3e105335169/linked_in?t=t7sf3s
-      {% include image-gallery.html images="CSWP Cert.png" height="400" %}
-    
+      {% include image-gallery.html images= href="https://www.flickr.com/photos/202895974@N04/55003792569/in/dateposted-public/" src="https://live.staticflickr.com/65535/55003792569_c11903715f_m.jpg" src="//embedr.flickr.com/assets/client-code.js
+
+#<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/55003792569/in/dateposted-public/" title="certified-solidworks-design-professional"><img src="https://live.staticflickr.com/65535/55003792569_c11903715f_m.jpg" width="240" height="240" alt="certified-solidworks-design-professional"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
   - category: Engineering Software
