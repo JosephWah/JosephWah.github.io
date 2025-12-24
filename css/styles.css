@@ -437,7 +437,69 @@ nav .mobile-nav {
 }
 
 
-/* SECTION 4: CONTACT */
+
+
+
+/* SECTION 4: SKILLS */
+.certifications-section {
+    margin-bottom: 100px;
+    display:flex;
+    flex-direction: column;
+}
+
+.certifications-section h2 {
+    font-size: 34px;
+    margin-bottom: 15px;
+}
+
+.certifications-section .certification-categories {
+    list-style: none;
+    padding-left: 0;
+   }
+
+.certifications-section .certification-categories .certifications-card  span{
+    margin-bottom: 10px;
+}
+
+.certifications-section .certification-categories .certifications-card {
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.05);    
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 
+                  0 2px 4px -1px rgba(0, 0, 0, 0.06);
+   }
+
+.certifications-section .certification-categories .category-label {
+    font-size: 20px;
+    display: grid; 
+    font-weight: 600;
+}
+
+.certifications-section .certification-categories .certifications-list {
+    display: flex; 
+    flex-wrap: wrap;
+    padding-left: 0; 
+    margin-right: 10px;
+    gap: 8px;
+    }
+
+.certifications-section .certification-categories .certification {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 8px;
+    background-color: var(--light-background-color);
+    color: var(--link-color);
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+
+
+
+
+/* SECTION 5: CONTACT */
 .contact-section {
     padding: 25px 25px;
     max-width: 600px;
