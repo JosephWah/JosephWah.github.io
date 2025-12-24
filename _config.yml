@@ -43,11 +43,11 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 #Certifications Section
 certifications:
-  - category: CSWP Exam
-    tools:
-    - CSWP Segment 1
-    - CSWP Segment 2
-    - CSWP Segment 3
+- category: CSWP Exam
+  tools:
+  - CSWP Segment 1
+  - CSWP Segment 2
+  - CSWP Segment 3
     
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
