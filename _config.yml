@@ -45,7 +45,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
 certifications:
   - category: Certiified SolidWorks Professional (CSWP)
     tools:
-    - <a data-flickr-embed="true" href="https://www.credly.com/badges/94cab778-cc4d-45c4-bdda-d3e105335169/linked_in?t=t7sf3s" title="DS SolidWorks Certification"><img src="https://live.staticflickr.com/65535/55003792569_c11903715f_m.jpg" width="125" height="125" alt="DS SolidWorks Certification"/></a>
+    - <a data-flickr-embed="true" href="https://www.credly.com/badges/94cab778-cc4d-45c4-bdda-d3e105335169/linked_in?t=t7sf3s" title="DS SolidWorks Certification"><img src="https://live.staticflickr.com/65535/55003792569_c11903715f_m.jpg" width="200" height="200" alt="DS SolidWorks Certification"/></a>
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
