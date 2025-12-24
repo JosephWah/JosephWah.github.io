@@ -43,12 +43,10 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 #Certifications Section
 certifications:
-  - category: CSWP Exam
+  - category: Certiified SolidWorks Professional (CSWP)
     tools:
     - https://www.credly.com/badges/94cab778-cc4d-45c4-bdda-d3e105335169/linked_in?t=t7sf3s
-    - CSWP Segment 1
-    - CSWP Segment 2
-    - CSWP Segment 3
+      {% include image-gallery.html images="CSWP Cert.png" height="400" %}
     
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
