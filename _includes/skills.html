@@ -1,3 +1,27 @@
+<section id="certifications" class="certifications-section">
+    <h2>Certifications</h2>
+        
+    <ul class="certifications-categories">
+        {% for certification in site.certifications %}
+          <li>
+            <div class="certifications-card">
+              <span class="category-label">{{ certification.category}}</span>
+            
+              <ul class="certifications-list">
+                {% for certification in certification.tools %}
+                  <li class="certification">
+                    {{ certification }}
+                  </li>
+                {% endfor %}
+                </ul>
+            </div>
+            
+          </li> 
+        {% endfor %}
+      </ul>
+
+</section>
+
 <section id="skills" class="skills-section">
     <h2>Skills</h2>
         
