@@ -15,9 +15,9 @@ title: Joseph's Portfolio # This is what shows up in the tab of the browser
 name: Joseph Wahlstrom
 headline: Mechanical Engineer based in Bowling Green, KY
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I'm a recent graduate with six years of hands-on competitive VEX robotics experience where I 
-  developed a strong foundation in design, prototyping, and problem solving. I have a proven ability
-  to apply engineering principles in real world scenarios during worldwide high level competition.
+  I'm a Mechanical Engineer specializing in 3D design, prototyping, and hands-on problem solving, with six years of
+  competitive robotics experience and several engineering projects. Proven ability to design, build, and iterate
+  under real-world consraints and tight deadlines.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_20250523_140031-modified.png
@@ -25,7 +25,7 @@ profile_image: ./assets/images/profile-image/IMG_20250523_140031-modified.png
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/1qrTLRY0udWMTzpg9FL-Hag8aXDeGYvyw/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1dzOF2rAA_aY2QQTqa13f0hgZn2e27rdQ/view?usp=drive_link
 
 
 # Set up external links - this will show up as small icons next to your name.   
@@ -49,11 +49,13 @@ skills:
     - SolidWorks
     - SolidWorks Toolbox
     - Autodesk Inventor
+    - Autodesk Fusion360
     - ANSYS Workbench
+    - ANSYS Mechanical
     - QBlade
   - category: Fabrication
     tools:
-    - 3D Printing (PLA)
+    - 3D Printing (FDM and SLA)
     - Prototyping
   - category: Simulation
     tools:
@@ -63,6 +65,7 @@ skills:
     - CFD in SolidWorks
   - category: Programming
     tools:
+    - G-Code
     - C++
     - Web VPython
     - HTML
@@ -78,7 +81,7 @@ skills:
     - Manual Mill
     - Lathe
     - Band Saw
-    - Basic Power Tools
+    - Standard Power Tools
   
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
