@@ -45,6 +45,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
 certifications:
   - category: CSWP Exam
     tools:
+    -https://www.credly.com/badges/94cab778-cc4d-45c4-bdda-d3e105335169/linked_in?t=t7sf3s
     - CSWP Segment 1
     - CSWP Segment 2
     - CSWP Segment 3
