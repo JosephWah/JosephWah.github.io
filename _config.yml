@@ -15,9 +15,10 @@ title: Joseph's Portfolio # This is what shows up in the tab of the browser
 name: Joseph Wahlstrom
 headline: Mechanical Engineer based in Bowling Green, KY
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I'm a Mechanical Engineer specializing in 3D design, prototyping, and hands-on problem solving, with six years of
-  competitive robotics experience and several engineering projects. Proven ability to design, build, and iterate
-  under real-world constraints and tight deadlines.
+  I'm a detail oriented and innovative Mechanical Engineer specializing in 3D design,
+  prototyping, and hands-on problem solving, with six years of competitive robotics experience
+  and several engineering projects. Proven ability to design, build, and iterate under real-world
+  constraints and tight deadlines.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_20250523_140031-modified.png
