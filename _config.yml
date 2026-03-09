@@ -62,13 +62,15 @@ skills:
   - category: Fabrication
     tools:
     - 3D Printing (FDM and SLA)
-    - Prototyping
+    - Rapid Prototyping
+    - Welding
+    - Press Brakes
   - category: Simulation
     tools:
-    - FEA
+    - Finite Element Analysis (FEA)
     - Fatigue analysis
-    - Plastic Yield Simulation in ANSYS
-    - CFD in SolidWorks
+    - Plastic Yield Simulation
+    - Computational Fluid Dynamics (CFD)
   - category: Programming
     tools:
     - G-Code
@@ -84,7 +86,9 @@ skills:
     - Status Presentations
   - category: Tools
     tools:
+    - Calipers
     - Manual Mill
+    - Drill Press
     - Lathe
     - Band Saw
     - Standard Power Tools
